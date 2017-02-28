@@ -1,0 +1,1 @@
+VirtualPet is a program incorporating user interaction. The program utitilizes Loops, conditional statements, and classes to be able to compile. A Virtual Pet is made and given values. Users are able to feed, play, and rest the pet. Intergers determine how the virtual pet operates.
